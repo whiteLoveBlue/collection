@@ -1,0 +1,28 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on 美丽新</title>
+        <link>Users/light/Desktop/collection/public/posts/</link>
+        <description>Recent content in Posts on 美丽新</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh</language>
+        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+        <atom:link href="Users/light/Desktop/collection/public/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title></title>
+            <link>Users/light/Desktop/collection/public/posts/helloworld/</link>
+            <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+            
+            <guid>Users/light/Desktop/collection/public/posts/helloworld/</guid>
+            <description>你好世界
+啊实打实dsd
+ifconfig -c qq 阿松大 阿达</description>
+            <content type="html"><![CDATA[<p>你好世界</p>
+<p>啊实打实dsd</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>ifconfig -c qq 阿松大
+</span></span></code></pre></div><p>阿达</p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>
